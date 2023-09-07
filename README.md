@@ -1,5 +1,5 @@
 👋 Hi, I'm @henriklampinen
-🎓 I'm a 24-year-old engineering student in Umeå, studying Civilingenjörsprogrammet i industriell ekonomi.
+🎓 I'm a 24-year-old engineering student in Umeå, studying Master of Science Program in Industrial Engineering and Management.
 
 👀 I’m interested in:
 
