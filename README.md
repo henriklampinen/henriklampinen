@@ -15,7 +15,7 @@
 
 📚 Courses I've found particular intresst in:
 - Financial Mathematics
-- Risk-based Portfolio and Corporate Governance
+- Enterprise Risk Management
 - Multivariate Data Analysis
 - Statistical Learning and High-Dimensional Data Analysis
 
